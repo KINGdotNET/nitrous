@@ -11,6 +11,9 @@ const STEEMING = {
     LIQUID_TOKEN_UPPERCASE: 'PESOS',
     APP_MAX_TAG: 10,
     SCOT_TAG: 'steeming',
+    SCOT_DEFAULT_BENEFICIARY_ACCOUNT; 'yehey',
+    SCOT_DEFAULT_BENEFICIARY_PERCENT; 10,
+    GOOGLE_AD_CLIENT; 'ca-5903031199985375',
     TAG_LIST: fromJSOrdered([
         'pesos',
         'steeming',
@@ -62,6 +65,9 @@ const ONLINEBUZZ = {
     LIQUID_TOKEN_UPPERCASE: 'PESOS',
     APP_MAX_TAG: 10,
     SCOT_TAG: 'onlinebuzz',
+    SCOT_DEFAULT_BENEFICIARY_ACCOUNT; 'yehey',
+    SCOT_DEFAULT_BENEFICIARY_PERCENT; 10,
+    GOOGLE_AD_CLIENT; 'ca-5903031199985375',
     TAG_LIST: fromJSOrdered([
         'pesos',
         'onlinebuzz',
