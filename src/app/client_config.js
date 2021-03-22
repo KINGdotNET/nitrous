@@ -178,7 +178,7 @@ export const CONFIG_MAP = {
     'localhost:8080': STEEMING,
     'onlinebuzz.com': ONLINEBUZZ,
     'steeming.com': STEEMING,
-    'plogginp.com': PLOGGING,
+    'plogging.com': PLOGGING,
 };
 
 // FIXME figure out best way to do this on both client and server from env
