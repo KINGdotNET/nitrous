@@ -52,9 +52,9 @@
   "pinned_posts_url": false,
   "wallet_url": "https://wallet.hive.blog",
   "gpt_banned_tags": ["nsfw", "tante"],
-  "google_ad_enabled": null,
+  "google_ad_enabled": true,
   "google_ad_test": null,
-  "google_ad_client": null,
+  "google_ad_client": "ca-pub-5903031199985375",
   "google_ad_slots": {
     "market_1": {
       "slot_id": "0"
