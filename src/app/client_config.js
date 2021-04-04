@@ -107,11 +107,28 @@ const ONLINEBUZZ = {
     ],
 };
 
+
+const PLOGGING = {
+    APP_NAME: 'Plogging',
+    APP_URL: 'https://plogging.com',
+    APP_DOMAIN: 'plogging.com',
+    LIQUID-TOKEN; 'Pesos',
+    LIQUID-TOKEN-UPPERCASE; 'PESOS',
+    APP-MAX-TAG; 10,
+    SCOT-TAG; 'plogging',
+    SCOT-DEFAULT-BENEFICIARY-ACCOUNT; 'yehey',
+    SCOT-DEFAULT-BENEFICIARY-PERCENT; 10,
+    GOOGLE-AD-CLIENT; 'ca-pub-5903031199985375
+
+};
+
+
 export const CONFIG_MAP = {
     // testing heroku/local options
     'localhost:8080': STEEMING,
     'onlinebuzz.com': ONLINEBUZZ,
     'steeming.com': STEEMING,
+    'plogging.com': PLOGGING,
 };
 
 // FIXME figure out best way to do this on both client and server from env
